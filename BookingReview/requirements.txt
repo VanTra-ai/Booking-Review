@@ -1,0 +1,7 @@
+streamlit~=1.46.1
+pandas~=2.3.0
+numpy~=2.0.2
+torch
+transformers
+underthesea
+scikit-learn
